@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🌱 Atualmente estudando CSS, HTML, Java Script
 - 🤔 Em busca de um sênior para me adotar 😅
-- 👨‍💻 Interessado em projetos frontend mesmo que só por experiência
+- 👨‍💻 Interessado em projetos frontend mesmo que só por experiência, mas não tenho medo de me aventurar pelo backend
 <div align="center">
   <div align="center">
   <a href="https://github.com/JoaoPedroDSS">
